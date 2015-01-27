@@ -1,3 +1,6 @@
 [submodule "ernest-slave-eagle"]
 	path = ernest-slave-eagle
 	url = git@github.com:rschlaikjer/ernest-slave-eagle.git
+[submodule "ernest-slave-code"]
+	path = ernest-slave-code
+	url = git@github.com:rschlaikjer/ernest-slave-code.git
