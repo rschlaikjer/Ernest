@@ -35,3 +35,12 @@ To that end, there are four subrepos of Ernest:
     collected data and making the decision of whether or not the master node
     should activate the furnace.
 
+## Pictures
+### First slave node revision
+![First Version](/rev1.jpg?raw=true "Early prototype")
+
+### Schematics for slave rev4
+![Schematic](/ernest_schematic.png?raw=true "Schematic")
+
+![Board Layout](/ernest_board.png?raw=true "Board Layout")
+
