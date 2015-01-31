@@ -5,7 +5,8 @@
 **This code / schematics are currently undergoing frequent revision!**
 **NO guarantees that it is a working system as of yet.**
 
-A while ago I put together the Arnest, which was a nice simple alternative to
+A while ago I put together the [Arnest](https://github.com/rschlaikjer/ArNest)
+, which was a nice simple alternative to
 other smart thermostat systems that was compatible with the old wiring in my
 apartment. It worked, but I couldn't keep track of the temperature at more than
 one point in the apartment. I was also interested to see what other atmospheric
