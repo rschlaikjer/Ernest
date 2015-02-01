@@ -4,3 +4,6 @@
 [submodule "ernest-slave-code"]
 	path = ernest-slave-code
 	url = git@github.com:rschlaikjer/ernest-slave-code.git
+[submodule "ernest-server"]
+	path = ernest-server
+	url = git@github.com:rschlaikjer/ernest-server.git

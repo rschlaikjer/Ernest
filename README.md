@@ -32,7 +32,8 @@ To that end, there are four subrepos of Ernest:
 - [Master Node Code](). The master node simply listens for data on the radio and
     posts it to a managing server. There's no integrated schematic for this yet,
     but it's simple enough to construct one out of an arduino.
-- [Server Code](). The server interacts with the master node, tracking the
+- [Server Code](https://github.com/rschlaikjer/ernest-server).
+    The server interacts with the master node, tracking the
     collected data and making the decision of whether or not the master node
     should activate the furnace.
 
