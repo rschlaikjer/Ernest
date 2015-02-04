@@ -29,7 +29,8 @@ To that end, there are four subrepos of Ernest:
     The original version of the slave node used an entire Arduino Micro, but to
     reduce cost rev4 uses a bare ATMEGA328-P. The tip of these two repos may not
     be in sync, so be sure to check pin definitions when building this yourself.
-- [Master Node Code](). The master node simply listens for data on the radio and
+- [Master Node Code](https://github.com/rschlaikjer/ernest-master-code).
+    The master node simply listens for data on the radio and
     posts it to a managing server. There's no integrated schematic for this yet,
     but it's simple enough to construct one out of an arduino.
 - [Server Code](https://github.com/rschlaikjer/ernest-server).

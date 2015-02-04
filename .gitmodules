@@ -7,3 +7,6 @@
 [submodule "ernest-server"]
 	path = ernest-server
 	url = git@github.com:rschlaikjer/ernest-server.git
+[submodule "ernest-master-code"]
+	path = ernest-master-code
+	url = https://github.com/rschlaikjer/ernest-master-code.git
