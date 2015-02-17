@@ -2,9 +2,6 @@
 
 ### Atmospheric data collector and thermostat
 
-**This code / schematics are currently undergoing frequent revision!**
-**NO guarantees that it is a working system as of yet.**
-
 A while ago I put together the [Arnest](https://github.com/rschlaikjer/ArNest)
 , which was a nice simple alternative to
 other smart thermostat systems that was compatible with the old wiring in my
@@ -39,11 +36,8 @@ To that end, there are four subrepos of Ernest:
     should activate the furnace.
 
 ## Pictures
-### First slave node revision
-![First Version](/rev1.jpg?raw=true "Early prototype")
+### Latest (v0.4) slave board
+![Latest Version](/rev4.jpg?raw=true "Cutting edge")
 
-### Schematics for slave rev4
-![Schematic](/ernest_schematic.png?raw=true "Schematic")
-
-![Board Layout](/ernest_board.png?raw=true "Board Layout")
-
+### Master node
+![Master](/master.jpg?raw=true "A little hairy")
