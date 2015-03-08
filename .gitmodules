@@ -10,3 +10,6 @@
 [submodule "ernest-master-code"]
 	path = ernest-master-code
 	url = https://github.com/rschlaikjer/ernest-master-code.git
+[submodule "ernest-master-eagle"]
+	path = ernest-master-eagle
+	url = https://github.com/rschlaikjer/ernest-master-eagle.git

@@ -26,6 +26,9 @@ To that end, there are four subrepos of Ernest:
     The original version of the slave node used an entire Arduino Micro, but to
     reduce cost rev4 uses a bare ATMEGA328-P. The tip of these two repos may not
     be in sync, so be sure to check pin definitions when building this yourself.
+- [Master Node Scheamatics](https://github.com/rschlaikjer/ernest-master-eagle).
+    The data aggregator and controller. Communicates with the server over http,
+    controls the furnace, displays a nice interface.
 - [Master Node Code](https://github.com/rschlaikjer/ernest-master-code).
     The master node simply listens for data on the radio and
     posts it to a managing server. There's no integrated schematic for this yet,
@@ -40,4 +43,4 @@ To that end, there are four subrepos of Ernest:
 ![Latest Version](/rev4.jpg?raw=true "Cutting edge")
 
 ### Master node
-![Master](/master.jpg?raw=true "A little hairy")
+![Master](/master.jpg?raw=true "Nice and tidy")
