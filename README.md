@@ -15,7 +15,7 @@ various data and communicates them to a base station, which aggregates and sends
 the information to a server that stores the readings and acts as control.
 
 To that end, there are four subrepos of Ernest:
-- [Slave Node Scheamatics](https://github.com/rschlaikjer/ernest-slave-eagle).
+- [Slave Node Schematics](https://github.com/rschlaikjer/ernest-slave-eagle).
     The 'slave' nodes are the data collectors,
     equipped with temperature, barometric pressure and humidity sensors
     as well as a 2.4GHz radio transciever for communicating with the base
@@ -26,7 +26,7 @@ To that end, there are four subrepos of Ernest:
     The original version of the slave node used an entire Arduino Micro, but to
     reduce cost rev4 uses a bare ATMEGA328-P. The tip of these two repos may not
     be in sync, so be sure to check pin definitions when building this yourself.
-- [Master Node Scheamatics](https://github.com/rschlaikjer/ernest-master-eagle).
+- [Master Node Schematics](https://github.com/rschlaikjer/ernest-master-eagle).
     The data aggregator and controller. Communicates with the server over http,
     controls the furnace, displays a nice interface.
 - [Master Node Code](https://github.com/rschlaikjer/ernest-master-code).
